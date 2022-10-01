@@ -14,7 +14,7 @@ Facial expressions are among the most informative stimuli we perceive: Even a sp
 Alternate face and shape detection tasks
 Each task(face/shape) of 18-sec preceding with a 3-sec cue. Total 21 sec for one task. Each run had 6 tasks 3 for faces and 3 for shapes. 2 runs for one subject. 
 #### Data available to us:
-Timeseries_task: 4D matrix: 339*2*360*176-- num_subjects*runs*voxels*timeframes, 1 timeframe = 0.72 seconds
+Timeseries_task: 4D matrix: 339 x 2 x 360 x 176-- num_subjects x runs x voxels x timeframes, 1 timeframe = 0.72 seconds
 ![Screenshot 2022-10-02 at 1 57 05 AM](https://user-images.githubusercontent.com/64154041/193427130-cc76a7f3-20cc-4c8e-8a65-19efa98ac818.png)
 
 Behavioural data: Median response time and Average accuracy of the response for each type of task, each run, each subject
